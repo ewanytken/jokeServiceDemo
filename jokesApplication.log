@@ -1,0 +1,8 @@
+2022-02-21 21:58:27.744  INFO 12520 --- [restartedMain] c.t.jokeservice.JokeserviceApplication   : Starting JokeserviceApplication on Evarista-VAIO with PID 12520 (C:\Users\Evarista\Desktop\NewWorkSpace\jokeservice\target\classes started by Evarista in C:\Users\Evarista\Desktop\NewWorkSpace\jokeservice)
+2022-02-21 21:58:27.765 DEBUG 12520 --- [restartedMain] c.t.jokeservice.JokeserviceApplication   : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2022-02-21 21:58:27.766  INFO 12520 --- [restartedMain] c.t.jokeservice.JokeserviceApplication   : No active profile set, falling back to default profiles: default
+2022-02-21 21:58:35.932  WARN 12520 --- [restartedMain] org.jline                                : Unable to create a system terminal, creating a dumb terminal (enable debug logging for more information)
+2022-02-21 21:58:36.171  INFO 12520 --- [restartedMain] c.t.jokeservice.JokeserviceApplication   : Started JokeserviceApplication in 9.966 seconds (JVM running for 17.074)
+2022-02-21 21:59:05.546 DEBUG 12520 --- [restartedMain] c.t.jokeservice.joke.JokeRetrieverImpl   : JOKE QUERY
+2022-02-21 22:04:13.766  WARN 12520 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m9s562ms734µs716ns).
+2022-02-21 22:04:13.788 DEBUG 12520 --- [restartedMain] c.t.jokeservice.joke.JokeRetrieverImpl   : HAVE A ANSWER: Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
